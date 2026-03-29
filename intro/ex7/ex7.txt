@@ -1,0 +1,3 @@
+Testando se o arquivo está contando as linhas corretamente
+Vinicius Brait
+Mackenzie
